@@ -1,2 +1,2 @@
 # MaximalCliques
-Implementation of Tomita and Brokerbosch algorithm
+Implementation of Tomita and Bronkerbosch algorithm
