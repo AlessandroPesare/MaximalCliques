@@ -15,6 +15,7 @@ public class Main {
         List<List<Integer>> tomitaCliques = tomitaAlgorithm.findAllCliques();
 
         BronKerboschAlgorithm bronKerboschAlgorithm = new BronKerboschAlgorithm(graph);
+        //trova tutte le cliques con bronKerbosch
         List<List<Integer>> bronKerboschCliques = bronKerboschAlgorithm.findAllCliques();
 
         // Stampa i risultati
